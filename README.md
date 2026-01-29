@@ -162,7 +162,7 @@ motto: "Code is poetry, bugs are plot twists"
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MianDaniyalHassan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MianDaniyalHassan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 <!-- ===================== FEATURED PROJECTS SHOWCASE ===================== -->
