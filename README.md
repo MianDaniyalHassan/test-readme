@@ -258,9 +258,7 @@ motto: "Code is poetry, bugs are plot twists"
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> &nbsp;***Contribution Graph***
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MianDaniyalHassan/MianDaniyalHassan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
-  *Note: To enable snake animation, go to Actions tab and enable the workflow*
+  <img src="https://raw.githubusercontent.com/MianDaniyalHassan/test-readme/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- ===================== CODING ACTIVITY ===================== -->
