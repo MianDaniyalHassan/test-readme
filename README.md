@@ -1,141 +1,108 @@
-===================== HEADER =====================
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mian+Daniyal+Hassan;Full+Stack+Developer+%7C+AI+Engineer;Building+Intelligent+Things+That+Actually+Work;Code.+Create.+Ship.+Repeat." />
+</p>
 
-[ Animated typing header – visible on GitHub only ]
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=Welcome%20to%20my%20GitHub&height=80&fontSize=22" />
+</p>
 
-Hi, I'm Mian Daniyal Hassan
-Full Stack Developer | AI Engineer
-Building Intelligent Things That Actually Work
-Code. Create. Ship. Repeat.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
-Welcome to my GitHub
+## 🧠 WHO AM I?
 
-=================================================
-
-
-WHO AM I?
-
+```diff
 + Computer Science Student @ University of Lahore
 + Dean’s Honor Recipient
 + Full-Stack Developer | AI & Automation Builder
 + I learn by building real projects — not watching tutorials.
+```
 
-Location: Pakistan
-Focus Areas: AI, Systems, Web, Automation
-Mindset: Turning ideas into deployed software
+🌍 Pakistan 🇵🇰  
+🧠 AI · Systems · Web · Automation  
+⚡ Turning ideas into deployed software
 
+---
 
--------------------------------------------------
+## ⚡ TECH STACK (NEON MODE)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nextjs,nodejs,flask,html,css,tailwind,git,github,linux&theme=dark" />
+</p>
 
-TECH STACK (NEON MODE ON GITHUB)
+---
 
-Languages:
-- Python
-- C++
-- JavaScript
-- HTML
-- CSS
+## 📊 GITHUB ENERGY
 
-Frontend:
-- React
-- Next.js
-- Tailwind CSS
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MianDaniyalHassan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MianDaniyalHassan&theme=tokyonight&hide_border=true&border_radius=14" />
+</p>
 
-Backend:
-- Node.js
-- Flask
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianDaniyalHassan&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" />
+</p>
 
-AI / Automation:
-- Streamlit
-- AI APIs
-- Data Processing
+---
 
-Tools:
-- Git
-- GitHub
-- Linux
-- VS Code
+## 🚀 FEATURED PROJECTS
 
+### 🧠 AI Mood Playlist Generator
+> AI-powered mood-based playlist generator  
+🔹 Python · Streamlit · AI Logic  
+🔗 https://daniyal-s-new-portfolio.vercel.app/projects
 
--------------------------------------------------
+---
 
+### 🤖 Jarvis AI Assistant
+> Voice-controlled AI assistant  
+🔹 Python · Speech Recognition · AI APIs  
 
-GITHUB STATS (LIVE ON GITHUB)
+---
 
-- Contribution streak
-- Language usage
-- Activity graphs
-- Real-time repo stats
+### 🏨 Galaxy / KFC Management Systems
+> Real-world management simulations  
+🔹 C++ · Data Structures · Logic  
 
-(Note: These animate and update automatically on GitHub)
+---
 
+### 🎮 Flappy Bird Replica
+> Browser-playable classic game  
+🔹 JavaScript · Canvas · Game Physics  
 
--------------------------------------------------
+👉 More projects & live demos  
+🌐 https://daniyal-s-new-portfolio.vercel.app
 
+---
 
-FEATURED PROJECTS
+## 🏆 ACHIEVEMENTS
 
-AI Mood Playlist Generator
-- AI-powered mood-based playlist generator
-- Technologies: Python, Streamlit, AI Logic
-- Live demos available on portfolio
+🎓 15+ certifications in:
+- Artificial Intelligence
+- Machine Learning
+- Cloud & Dev Tools
+- Python & Automation
 
-Jarvis AI Assistant
-- Voice-controlled AI assistant
-- Automation + speech recognition
-- Built using Python and AI APIs
+💡 Proof > certificates. I build what I learn.
 
-Galaxy / KFC Management Systems
-- Real-world system simulations
-- Focus on data structures and logic
-- Built using C++
+---
 
-Flappy Bird Replica
-- Browser-playable classic game clone
-- Built with JavaScript and Canvas
-- Game physics and collision logic implemented
+## 🌐 CONNECT WITH ME
 
-More projects and live demos:
-https://daniyal-s-new-portfolio.vercel.app
+<p align="center">
+  <a href="https://daniyal-s-new-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mian-daniyal-hassan-849971293">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:daniyalhassan6390@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-
--------------------------------------------------
-
-
-ACHIEVEMENTS
-
-- 15+ certifications in:
-  * Artificial Intelligence
-  * Machine Learning
-  * Cloud Technologies
-  * Python & Automation
-
-Philosophy:
-Proof > certificates
-I build what I learn.
-
-
--------------------------------------------------
-
-
-CONNECT WITH ME
-
-Portfolio:
-https://daniyal-s-new-portfolio.vercel.app
-
-LinkedIn:
-https://www.linkedin.com/in/mian-daniyal-hassan-849971293
-
-Email:
-daniyalhassan6390@gmail.com
-
-
--------------------------------------------------
-
-
-FOOTER
-
-Built with curiosity, consistency, and code.
-Always learning. Always building.
-
-=================================================
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
+</p>
