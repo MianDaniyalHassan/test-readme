@@ -4,12 +4,12 @@
 <div align="center">
 
 ```ascii
-███╗   ███╗██╗ █████╗ ███╗   ██╗ ██████╗ █████╗ ███╗   ██╗██╗██╗   ██╗ █████╗ ██╗     ██╗  ██╗ █████╗ ███████╗███████╗ █████╗ ██╗   ██╗
-████╗ ████║██║██╔══██╗████╗  ██║██╔════╝██╔══██╗████╗  ██║██║╚██╗ ██╔╝██╔══██╗██║     ██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗╚██╗ ██╔╝
-██╔████╔██║██║███████║██╔██╗ ██║██║     ███████║██╔██╗ ██║██║ ╚████╔╝ ███████║██║     ███████║███████║███████╗███████╗███████║ ╚████╔╝ 
-██║╚██╔╝██║██║██╔══██║██║╚██╗██║██║     ██╔══██║██║╚██╗██║██║  ╚██╔╝  ██╔══██║██║     ██╔══██║██╔══██║╚════██║╚════██║██╔══██║  ╚██╔╝  
-██║ ╚═╝ ██║██║██║  ██║██║ ╚████║╚██████╗██║  ██║██║ ╚████║██║   ██║   ██║  ██║███████╗██║  ██║██║  ██║███████║███████║██║  ██║   ██║   
-╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   
+ ███╗   ███╗██╗ █████╗ ███╗   ██╗   ██████╗  █████╗ ███╗   ██╗██╗██╗   ██╗ █████╗ ██╗       ██╗  ██╗ █████╗ ███████╗███████╗ █████╗ ██╗   ██╗
+ ████╗ ████║██║██╔══██╗████╗  ██║   ██╔══██╗██╔══██╗████╗  ██║██║╚██╗ ██╔╝██╔══██╗██║       ██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗╚██╗ ██╔╝
+ ██╔████╔██║██║███████║██╔██╗ ██║   ██║  ██║███████║██╔██╗ ██║██║ ╚████╔╝ ███████║██║       ███████║███████║███████╗███████╗███████║ ╚████╔╝ 
+ ██║╚██╔╝██║██║██╔══██║██║╚██╗██║   ██║  ██║██╔══██║██║╚██╗██║██║  ╚██╔╝  ██╔══██║██║       ██╔══██║██╔══██║╚════██║╚════██║██╔══██║  ╚██╔╝  
+ ██║ ╚═╝ ██║██║██║  ██║██║ ╚████║   ██████╔╝██║  ██║██║ ╚████║██║   ██║   ██║  ██║███████╗  ██║  ██║██║  ██║███████║███████║██║  ██║   ██║   
+ ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Mian+Daniyal+Hassan;%F0%9F%92%BB+Full+Stack+Architect+%7C+AI+Innovator;%F0%9F%A7%A0+Building+The+Future%2C+One+Commit+At+A+Time;%E2%9A%A1+Code+Wizard+%7C+Problem+Solver+%7C+Dream+Builder" alt="Typing SVG" />
@@ -152,17 +152,45 @@ motto: "Code is poetry, bugs are plot twists"
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;***GitHub Statistics***
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MianDaniyalHassan&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Stats" /> 
-  <img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=MianDaniyalHassan&theme=react&border_radius=4&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianDaniyalHassan&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MianDaniyalHassan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</div>
+### 📊 **Performance Metrics**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MianDaniyalHassan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MianDaniyalHassan&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117)
+
+</td>
+<td width="50%">
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=MianDaniyalHassan&theme=react&border_radius=4&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF)
+
+</td>
+</tr>
+</table>
+
+### 🎨 **Language & Contribution Analytics**
+
+<table>
+<tr>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MianDaniyalHassan&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8)
+
+</td>
+<td width="50%">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MianDaniyalHassan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Trend)
+
+</td>
+</tr>
+</table>
+
+### 🏆 **Achievements & Trophies**
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MianDaniyalHassan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
 </div>
 
 <!-- ===================== FEATURED PROJECTS SHOWCASE ===================== -->
@@ -292,13 +320,17 @@ Other             █░░░░░░░░░░░░░░░░░░░�
 
 ### 📈 **Project Breakdown by Technology**
 
-```
-🔹 C++ Projects           ████████████████████░░░░░░░░░░  35+  DSA, Games, Desktop Apps, Systems
-🔹 Python Projects        ████████████░░░░░░░░░░░░░░░░░░  25+  AI/ML, Scripts, Automation, Web
-🔹 JavaScript/TS Projects ████████░░░░░░░░░░░░░░░░░░░░░░  15+  Web Apps, Interactive Tools
-🔹 Mobile Apps            █████░░░░░░░░░░░░░░░░░░░░░░░░░  8+   Android, Cross-platform
-🔹 Full Stack Apps        ███████░░░░░░░░░░░░░░░░░░░░░░░  12+  Complete Solutions
-```
+<div align="center">
+
+| **Technology** | **Count** | **Focus Areas** | **Complexity** |
+|:---:|:---:|:---|:---:|
+| **C++** | `35+` | DSA, Games, Desktop Apps, Systems | ⚡⚡⚡⚡⚡ |
+| **Python** | `25+` | AI/ML, Scripts, Automation, Web | ⚡⚡⚡⚡ |
+| **JavaScript/TS** | `15+` | Web Apps, Interactive Tools | ⚡⚡⚡⚡ |
+| **Mobile** | `8+` | Android, Cross-platform Apps | ⚡⚡⚡ |
+| **Full Stack** | `12+` | Complete Solutions & Services | ⚡⚡⚡⚡⚡ |
+
+</div>
 
 </div>
 
