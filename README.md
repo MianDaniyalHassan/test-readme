@@ -296,11 +296,13 @@ Other             █░░░░░░░░░░░░░░░░░░░�
 
 | 💎 **Technology Stack** | **Progress** | **Count** | **Specialization** |
 |:------------------------|:-------------|:---------:|:-------------------|
-| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> **C++ Projects** | ![](https://geps.dev/progress/70?dangerColor=00599C&warningColor=00599C&successColor=00599C) | **35+** | DSA, Games, Desktop Apps, Systems |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> **Python Projects** | ![](https://geps.dev/progress/50?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB) | **25+** | AI/ML, Scripts, Automation, Web |
-| <img src="https://img.shields.io/badge/JavaScript/TS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> **JS/TS Projects** | ![](https://geps.dev/progress/30?dangerColor=F7DF1E&warningColor=F7DF1E&successColor=F7DF1E) | **15+** | Web Apps, Interactive Tools |
-| <img src="https://img.shields.io/badge/Mobile-3DDC84?style=flat-square&logo=android&logoColor=white" /> **Mobile Apps** | ![](https://geps.dev/progress/20?dangerColor=3DDC84&warningColor=3DDC84&successColor=3DDC84) | **8+** | Android, Cross-platform |
-| <img src="https://img.shields.io/badge/Full_Stack-FF6B6B?style=flat-square&logo=stackshare&logoColor=white" /> **Full Stack Apps** | ![](https://geps.dev/progress/25?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B) | **12+** | Complete Solutions |
+| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> **C++ Projects** | ![](https://geps.dev/progress/30?dangerColor=00599C&warningColor=00599C&successColor=00599C) | **10+** | DSA, Games, Desktop Apps, Systems |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> **Python Projects** | ![](https://geps.dev/progress/30?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB) | **10+** | AI/ML, Scripts, Automation, Web |
+| <img src="https://img.shields.io/badge/JavaScript/TS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> **JS/TS Projects** | ![](https://geps.dev/progress/15?dangerColor=F7DF1E&warningColor=F7DF1E&successColor=F7DF1E) | **5+** | Web Apps, Interactive Tools |
+| <img src="https://img.shields.io/badge/Mobile-3DDC84?style=flat-square&logo=android&logoColor=white" /> **Mobile Apps** | ![](https://geps.dev/progress/10?dangerColor=3DDC84&warningColor=3DDC84&successColor=3DDC84) | **2+** | Android, Cross-platform |
+| <img src="https://img.shields.io/badge/Full_Stack-FF6B6B?style=flat-square&logo=stackshare&logoColor=white" /> **Full Stack Apps** | ![](https://geps.dev/progress/15?dangerColor=FF6B6B&warningColor=FF6B6B&successColor=FF6B6B) | **3+** | Complete Solutions |
+
+**Total: 32 Repositories • 12 Featured Projects**
 
 </div>
 
