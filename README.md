@@ -4,19 +4,12 @@
 <div align="center">
 
 ```ascii
-███╗   ███╗██╗ █████╗ ███╗   ██╗    ██████╗  █████╗ ███╗   ██╗██╗██╗   ██╗ █████╗ ██╗     
-████╗ ████║██║██╔══██╗████╗  ██║    ██╔══██╗██╔══██╗████╗  ██║██║╚██╗ ██╔╝██╔══██╗██║     
-██╔████╔██║██║███████║██╔██╗ ██║    ██║  ██║███████║██╔██╗ ██║██║ ╚████╔╝ ███████║██║     
-██║╚██╔╝██║██║██╔══██║██║╚██╗██║    ██║  ██║██╔══██║██║╚██╗██║██║  ╚██╔╝  ██╔══██║██║     
-██║ ╚═╝ ██║██║██║  ██║██║ ╚████║    ██████╔╝██║  ██║██║ ╚████║██║   ██║   ██║  ██║███████╗
-╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
-
- ██╗  ██╗ █████╗ ███████╗███████╗ █████╗ ███╗   ██╗
- ██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗████╗  ██║
- ███████║███████║███████╗███████╗███████║██╔██╗ ██║
- ██╔══██║██╔══██║╚════██║╚════██║██╔══██║██║╚██╗██║
- ██║  ██║██║  ██║███████║███████║██║  ██║██║ ╚████║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+███╗   ███╗██╗ █████╗ ███╗   ██╗ ██████╗ █████╗ ███╗   ██╗██╗██╗   ██╗ █████╗ ██╗     ██╗  ██╗ █████╗ ███████╗███████╗ █████╗ ██╗   ██╗
+████╗ ████║██║██╔══██╗████╗  ██║██╔════╝██╔══██╗████╗  ██║██║╚██╗ ██╔╝██╔══██╗██║     ██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗╚██╗ ██╔╝
+██╔████╔██║██║███████║██╔██╗ ██║██║     ███████║██╔██╗ ██║██║ ╚████╔╝ ███████║██║     ███████║███████║███████╗███████╗███████║ ╚████╔╝ 
+██║╚██╔╝██║██║██╔══██║██║╚██╗██║██║     ██╔══██║██║╚██╗██║██║  ╚██╔╝  ██╔══██║██║     ██╔══██║██╔══██║╚════██║╚════██║██╔══██║  ╚██╔╝  
+██║ ╚═╝ ██║██║██║  ██║██║ ╚████║╚██████╗██║  ██║██║ ╚████║██║   ██║   ██║  ██║███████╗██║  ██║██║  ██║███████║███████║██║  ██║   ██║   
+╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Mian+Daniyal+Hassan;%F0%9F%92%BB+Full+Stack+Architect+%7C+AI+Innovator;%F0%9F%A7%A0+Building+The+Future%2C+One+Commit+At+A+Time;%E2%9A%A1+Code+Wizard+%7C+Problem+Solver+%7C+Dream+Builder" alt="Typing SVG" />
@@ -25,8 +18,9 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00F7FF?style=for-the-badge&logoColor=black)](https://daniyal-s-new-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-daniyal-hassan-849971293)
-[![Email](https://img.shields.io/badge/Email_Me-FF3131?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalhassan6390@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalhassan6390@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MianDaniyalHassan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=4"/>
 
@@ -288,21 +282,23 @@ Other             █░░░░░░░░░░░░░░░░░░░�
 
 | **Category** | **Technologies** | **Proficiency** |
 |:---|:---|:---:|
-| 💻 **Core Languages** | C++, Python, JavaScript, TypeScript | ⭐⭐⭐⭐⭐ |
-| 🎨 **Frontend** | React, Next.js, Tailwind CSS, HTML5, CSS3 | ⭐⭐⭐⭐⭐ |
-| 🔧 **Backend** | Node.js, Flask, Python, REST APIs | ⭐⭐⭐⭐ |
-| 🗄️ **Databases** | PostgreSQL, MongoDB, Firebase | ⭐⭐⭐⭐ |
-| 🤖 **AI/ML** | TensorFlow, PyTorch, OpenAI, scikit-learn | ⭐⭐⭐⭐ |
-| 📱 **Mobile** | Android (Kivy, Flutter), React Native | ⭐⭐⭐ |
-| 🚀 **DevOps** | Git, Docker, Linux, CI/CD | ⭐⭐⭐⭐ |
+| 💻 **Core Languages** | `C++` `Python` `JavaScript` `TypeScript` | ⭐⭐⭐⭐⭐ |
+| 🎨 **Frontend** | `React` `Next.js` `Tailwind CSS` `HTML5` `CSS3` | ⭐⭐⭐⭐⭐ |
+| 🔧 **Backend** | `Node.js` `Flask` `Python` `REST APIs` | ⭐⭐⭐⭐ |
+| 🗄️ **Databases** | `PostgreSQL` `MongoDB` `Firebase` | ⭐⭐⭐⭐ |
+| 🤖 **AI/ML** | `TensorFlow` `PyTorch` `OpenAI` `scikit-learn` | ⭐⭐⭐⭐ |
+| 📱 **Mobile** | `Android` `Kivy` `Flutter` `React Native` | ⭐⭐⭐ |
+| 🚀 **DevOps** | `Git` `Docker` `Linux` `CI/CD` | ⭐⭐⭐⭐ |
 
 ### 📈 **Project Breakdown by Technology**
 
-- **C++ Projects:** 35+ (DSA, Games, Desktop Apps, Systems)
-- **Python Projects:** 25+ (AI/ML, Scripts, Automation, Web)
-- **JavaScript/TypeScript Projects:** 15+ (Web Apps, Interactive Tools)
-- **Mobile Apps:** 8+ (Android Apps, Cross-platform)
-- **Full Stack Apps:** 12+ (Complete Solutions)
+```
+🔹 C++ Projects           ████████████████████░░░░░░░░░░  35+  DSA, Games, Desktop Apps, Systems
+🔹 Python Projects        ████████████░░░░░░░░░░░░░░░░░░  25+  AI/ML, Scripts, Automation, Web
+🔹 JavaScript/TS Projects ████████░░░░░░░░░░░░░░░░░░░░░░  15+  Web Apps, Interactive Tools
+🔹 Mobile Apps            █████░░░░░░░░░░░░░░░░░░░░░░░░░  8+   Android, Cross-platform
+🔹 Full Stack Apps        ███████░░░░░░░░░░░░░░░░░░░░░░░  12+  Complete Solutions
+```
 
 </div>
 
@@ -317,14 +313,17 @@ Other             █░░░░░░░░░░░░░░░░░░░�
 <br>
 
 <a href="https://daniyal-s-new-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-00F7FF?style=for-the-badge" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mian-daniyal-hassan-849971293" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
+&nbsp;&nbsp;
 <a href="mailto:daniyalhassan6390@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_In_Touch-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Get_In_Touch-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/MianDaniyalHassan" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
