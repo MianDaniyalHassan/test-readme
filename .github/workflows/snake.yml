@@ -8,16 +8,22 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: MianDaniyalHassan
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
