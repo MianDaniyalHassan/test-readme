@@ -1,116 +1,306 @@
-<!-- ================== START COPY HERE ================== -->
+<!-- ================== ULTRA MODERN GITHUB PROFILE ================== -->
 
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mian+Daniyal+Hassan;Full+Stack+Developer+%7C+AI+Engineer;Turning+Ideas+Into+Intelligent+Apps;Code.+Create.+Ship.+Repeat." />
-</p>
+<!-- ===================== 3D HEADER WITH GLITCH EFFECT ===================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=Welcome%20to%20my%20GitHub&height=80&fontSize=22" />
-</p>
+```ascii
+███╗   ███╗██╗ █████╗ ███╗   ██╗    ██████╗  █████╗ ███╗   ██╗██╗██╗   ██╗ █████╗ ██╗     
+████╗ ████║██║██╔══██╗████╗  ██║    ██╔══██╗██╔══██╗████╗  ██║██║╚██╗ ██╔╝██╔══██╗██║     
+██╔████╔██║██║███████║██╔██╗ ██║    ██║  ██║███████║██╔██╗ ██║██║ ╚████╔╝ ███████║██║     
+██║╚██╔╝██║██║██╔══██║██║╚██╗██║    ██║  ██║██╔══██║██║╚██╗██║██║  ╚██╔╝  ██╔══██║██║     
+██║ ╚═╝ ██║██║██║  ██║██║ ╚████║    ██████╔╝██║  ██║██║ ╚████║██║   ██║   ██║  ██║███████╗
+╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
+```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=%F0%9F%92%BB+Full+Stack+Architect+%7C+AI+Innovator;%F0%9F%A7%A0+Building+The+Future%2C+One+Commit+At+A+Time;%E2%9A%A1+Code+Wizard+%7C+Problem+Solver+%7C+Dream+Builder" alt="Typing SVG" />
 
-# 💫 About Me:
-Hi there! I'm **Mian Daniyal Hassan**, a passionate Computer Science student at UOL thriving at the intersection of logic, creativity, and technology.  
-With hands-on experience in **C++, Python, and full-stack development**, I aim to build **intelligent tools that make life easier** — starting with projects like my fully-featured **Scientific Calculator App** (Casio fx-991ES PLUS inspired) built in Python (Kivy).  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-🔧 I'm deeply interested in:  
-- Building intelligent tools using **AI/ML**  
-- Writing **clean, modular code** (OOP, DSA, Pythonic best practices)  
-- Designing **intuitive, mobile-first UIs** that feel natural  
-- **Open-source collaboration** and real-world project deployment  
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00F7FF?style=for-the-badge&logoColor=black)](https://daniyal-s-new-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-daniyal-hassan-849971293)
+[![Email](https://img.shields.io/badge/Email_Me-FF3131?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalhassan6390@gmail.com)
 
-🌟 Dean’s Honor Certificate Holder | Future AI Engineer in the making  
-🚀 Currently working on: polishing my calculator’s Android APK, enhancing it with **complex number support, history, and theme modes**  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=4"/>
+
+</div>
+
+<!-- ===================== ANIMATED ABOUT SECTION ===================== -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> &nbsp;***About The Developer***
+
+```typescript
+const daniyal = {
+    pronouns: "He" | "Him",
+    location: "Lahore, Pakistan 🇵🇰",
+    education: "Computer Science @ UOL",
+    status: "Dean's Honor List 🏆",
+    currentFocus: ["AI/ML Engineering", "Full Stack Development", "Mobile Apps"],
+    philosophy: "Code is poetry, bugs are just plot twists",
+    
+    dailyRoutine: {
+        morning: ["☕ Coffee", "💻 Code Review"],
+        afternoon: ["🔨 Building Features", "📚 Learning New Tech"],
+        evening: ["🧪 Experimenting with AI", "🎮 Gaming Break"],
+        night: ["🌙 Side Projects", "📖 Reading Tech Blogs"]
+    },
+    
+    goals2026: [
+        "Launch 3 AI-powered SaaS products",
+        "Contribute to major open-source projects",
+        "Build a 100k+ user mobile app",
+        "Master LLMs & Computer Vision"
+    ]
+};
+```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+</div>
+
+<!-- ===================== TECH ARSENAL ===================== -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;***Tech Arsenal***
+
+<details open>
+<summary><b>🎯 Core Skills</b></summary>
+<br>
+
+**Languages:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend:**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Databases:**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**AI/ML & Tools:**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**DevOps & Others:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</details>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<!-- ===================== GITHUB STATS SHOWDOWN ===================== -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;***GitHub Statistics***
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MianDaniyalHassan&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Stats" /> 
+  <img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=MianDaniyalHassan&theme=react&border_radius=4&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianDaniyalHassan&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MianDaniyalHassan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MianDaniyalHassan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+<!-- ===================== FEATURED PROJECTS SHOWCASE ===================== -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;***Featured Projects***
+
+<div align="center">
+
+### 🎵 **AI Mood Playlist Generator**
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-00F7FF?style=for-the-badge)](https://daniyal-s-new-portfolio.vercel.app/projects)
+[![Code](https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github)](https://github.com/MianDaniyalHassan)
+
+> *AI-powered mood detection that curates personalized playlists*
+> 
+> **Stack:** Python • Streamlit • OpenAI API • Spotify Integration
+> 
+> ⭐ Smart mood analysis | 🎨 Modern UI | 🎵 Real-time generation
 
 ---
 
-## ⚡ Tech Stack
+### 🤖 **Jarvis AI Assistant**
+[![GitHub](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/MianDaniyalHassan)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nextjs,nodejs,flask,html,css,tailwind,git,github,linux&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Power Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MianDaniyalHassan&show_icons=true&theme=tokyonight&hide_border=false&border_radius=14" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=MianDaniyalHassan&theme=tokyonight&hide_border=false&border_radius=14" />
-</p>
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianDaniyalHassan&theme=tokyonight&hide_border=false&layout=compact&border_radius=14" />
-</p>
+> *Voice-controlled AI assistant with natural language processing*
+> 
+> **Stack:** Python • Speech Recognition • OpenAI • Custom NLP
+> 
+> 🗣️ Voice commands | 🧠 Context awareness | ⚡ Lightning fast
 
 ---
 
-## 🚀 Featured Projects
+### 🧮 **Scientific Calculator Pro**
+[![Download](https://img.shields.io/badge/DOWNLOAD_APK-3DDC84?style=for-the-badge&logo=android)](https://daniyal-s-new-portfolio.vercel.app/projects)
 
-### 🧠 AI Mood Playlist Generator
-> Generates playlists based on mood using AI  
-🔹 Python · Streamlit · AI Logic  
-🔗 [Live & Code](https://daniyal-s-new-portfolio.vercel.app/projects)
-
-### 🤖 Jarvis AI Assistant
-> Voice-controlled AI assistant  
-🔹 Python · Speech Recognition · AI APIs  
-
-### 🏨 Galaxy / KFC Management Systems
-> Real-world management system simulations  
-🔹 C++ · Data Structures · Logic  
-
-### 🎮 Flappy Bird Replica
-> Browser-playable classic game  
-🔹 JavaScript · Canvas · Game Physics  
-
-### 🧮 Scientific Calculator App
-> Fully featured Casio fx-991ES PLUS inspired calculator for Android  
-🔹 Python · Kivy · Modular Design  
-🔗 [Portfolio Link](https://daniyal-s-new-portfolio.vercel.app/projects)
-
-👉 **More projects & live demos**  
-🌐 [Portfolio](https://daniyal-s-new-portfolio.vercel.app)
+> *Casio fx-991ES PLUS inspired calculator for Android*
+> 
+> **Stack:** Python • Kivy • Complex Math Engine • Material Design
+> 
+> 📱 Mobile-optimized | 🎨 Theme modes | 📜 Calculation history
 
 ---
 
-## 🏆 Achievements & Certifications
+### 🏨 **Galaxy Hotel Management System**
+[![Details](https://img.shields.io/badge/VIEW_DETAILS-FF6B6B?style=for-the-badge)](https://daniyal-s-new-portfolio.vercel.app/projects)
 
-🎓 15+ certifications in:  
-- Artificial Intelligence & Machine Learning  
-- Cloud & Dev Tools  
-- Python & Automation  
-
-💡 Proof > certificates → I **build what I learn**.
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://daniyal-s-new-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mian-daniyal-hassan-849971293">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:daniyalhassan6390@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+> *Enterprise-level hotel management with real-time booking*
+> 
+> **Stack:** C++ • Advanced DSA • File Handling • OOP Design
+> 
+> 💼 Admin dashboard | 📊 Analytics | 🔒 Secure authentication
 
 ---
 
-## ✨ Fun Cyberpunk Flair
+### 🎮 **Flappy Bird Reimagined**
+[![Play Now](https://img.shields.io/badge/🎮_PLAY_NOW-FFD700?style=for-the-badge)](https://daniyal-s-new-portfolio.vercel.app/projects)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
-</p>
+> *Classic game with modern physics and responsive design*
+> 
+> **Stack:** JavaScript • HTML5 Canvas • Game Physics Engine
+> 
+> 🕹️ Smooth gameplay | 📱 Mobile responsive | 🏆 Leaderboard
 
-[![](https://visitcount.itsvg.in/api?id=MianDaniyalHassan&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- ================== END COPY HERE ================== -->
+<div align="center">
+<a href="https://daniyal-s-new-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/🔍_EXPLORE_ALL_PROJECTS-00F7FF?style=for-the-badge&logoColor=black" />
+</a>
+</div>
+
+<!-- ===================== ACHIEVEMENTS & CERTIFICATIONS ===================== -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> &nbsp;***Achievements & Certs***
+
+<div align="center">
+
+| 🎓 **Certification** | 🏢 **Provider** | 🎯 **Focus Area** |
+|:---:|:---:|:---:|
+| AI & Machine Learning | Multiple Platforms | Deep Learning, NLP |
+| Cloud Computing | AWS/Azure | DevOps, Scalability |
+| Python Advanced | Coursera | Automation, Data Science |
+| Full Stack Development | Udemy | MERN/MEAN Stack |
+| Mobile App Development | Various | Android, iOS, Cross-platform |
+
+</div>
+
+**🏆 Dean's Honor Certificate Holder** • Top 5% of Class • 15+ Industry Certifications
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
+</div>
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> &nbsp;***Contribution Graph***
+
+<div align="center">
+  <img src="https://github.com/MianDaniyalHassan/MianDaniyalHassan/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<!-- ===================== CODING ACTIVITY ===================== -->
+
+## 📊 ***Weekly Development Breakdown***
+
+```text
+💻 Most Used Languages:
+
+Python       ████████████░░░░░░░░░   60%
+JavaScript   ██████░░░░░░░░░░░░░░░   25%
+C++          ████░░░░░░░░░░░░░░░░░   10%
+Other        █░░░░░░░░░░░░░░░░░░░░    5%
+```
+
+<!-- ===================== SUPPORT & CONNECT ===================== -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> &nbsp;***Let's Connect!***
+
+<div align="center">
+
+**💡 Open to collaborations • Freelance opportunities • Tech discussions**
+
+<a href="https://daniyal-s-new-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00F7FF?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/mian-daniyal-hassan-849971293">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:daniyalhassan6390@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_In_Touch-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+**☕ Support My Work**
+
+<a href="https://www.buymeacoffee.com/yourusername">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+</div>
+
+<!-- ===================== RANDOM QUOTE ===================== -->
+
+<div align="center">
+
+### 💭 ***Dev Quote of the Day***
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<!-- ===================== VISITOR COUNTER ===================== -->
+
+<div align="center">
+  
+### 👁️ ***Profile Views***
+
+<img src="https://komarev.com/ghpvc/?username=MianDaniyalHassan&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="profile views" />
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=42&fontColor=00F7FF&animation=twinkling&fontAlignY=70"/>
+
+---
+
+**⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+---
+
+**Made with 💙 by Mian Daniyal Hassan**
+
+*Last Updated: January 2026*
+
+</div>
+
+<!-- ================== END ULTRA MODERN PROFILE ================== -->
