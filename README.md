@@ -10,6 +10,13 @@
 ██║╚██╔╝██║██║██╔══██║██║╚██╗██║    ██║  ██║██╔══██║██║╚██╗██║██║  ╚██╔╝  ██╔══██║██║     
 ██║ ╚═╝ ██║██║██║  ██║██║ ╚████║    ██████╔╝██║  ██║██║ ╚████║██║   ██║   ██║  ██║███████╗
 ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
+
+ ██╗  ██╗ █████╗ ███████╗███████╗ █████╗ ███╗   ██╗
+ ██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗████╗  ██║
+ ███████║███████║███████╗███████╗███████║██╔██╗ ██║
+ ██╔══██║██╔══██║╚════██║╚════██║██╔══██║██║╚██╗██║
+ ██║  ██║██║  ██║███████║███████║██║  ██║██║ ╚████║
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Mian+Daniyal+Hassan;%F0%9F%92%BB+Full+Stack+Architect+%7C+AI+Innovator;%F0%9F%A7%A0+Building+The+Future%2C+One+Commit+At+A+Time;%E2%9A%A1+Code+Wizard+%7C+Problem+Solver+%7C+Dream+Builder" alt="Typing SVG" />
@@ -19,6 +26,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00F7FF?style=for-the-badge&logoColor=black)](https://daniyal-s-new-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-daniyal-hassan-849971293)
 [![Email](https://img.shields.io/badge/Email_Me-FF3131?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniyalhassan6390@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MianDaniyalHassan)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=4"/>
 
@@ -37,7 +45,7 @@
 ### 🎯 Quick Facts
 
 ```yaml
-name: Mian Daniyal Hassan
+name: MIAN DANIYAL HASSAN
 location: Lahore, Pakistan 🇵🇰
 education: Computer Science @ UOL
 status: Dean's Honor List 🏆
@@ -261,18 +269,42 @@ motto: "Code is poetry, bugs are plot twists"
   <img src="https://raw.githubusercontent.com/MianDaniyalHassan/test-readme/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<!-- ===================== CODING ACTIVITY ===================== -->
+<!-- ===================== CODING ACTIVITY & LANGUAGE BREAKDOWN ===================== -->
 
-## 📊 ***Weekly Development Breakdown***
+## 📊 ***All-Time Tech Breakdown***
 
-```text
-💻 Most Used Languages:
+<div align="center">
 
-C++          █████████████████░░░░   85%
-Python       ████░░░░░░░░░░░░░░░░░   10%
-JavaScript   █░░░░░░░░░░░░░░░░░░░░    3%
-Other        ░░░░░░░░░░░░░░░░░░░░░    2%
+### 💻 **Languages & Technologies Used Over Time**
+
 ```
+C++               ████████████████████░░░░░░░░░░  85%  ⭐ Primary Language
+Python            ███░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%  🐍 ML & Scripting
+JavaScript        █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3%   ⚡ Frontend Work
+Other             █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2%   🔧 Misc
+```
+
+### 🛠️ **Tech Stack Distribution**
+
+| **Category** | **Technologies** | **Proficiency** |
+|:---|:---|:---:|
+| 💻 **Core Languages** | C++, Python, JavaScript, TypeScript | ⭐⭐⭐⭐⭐ |
+| 🎨 **Frontend** | React, Next.js, Tailwind CSS, HTML5, CSS3 | ⭐⭐⭐⭐⭐ |
+| 🔧 **Backend** | Node.js, Flask, Python, REST APIs | ⭐⭐⭐⭐ |
+| 🗄️ **Databases** | PostgreSQL, MongoDB, Firebase | ⭐⭐⭐⭐ |
+| 🤖 **AI/ML** | TensorFlow, PyTorch, OpenAI, scikit-learn | ⭐⭐⭐⭐ |
+| 📱 **Mobile** | Android (Kivy, Flutter), React Native | ⭐⭐⭐ |
+| 🚀 **DevOps** | Git, Docker, Linux, CI/CD | ⭐⭐⭐⭐ |
+
+### 📈 **Project Breakdown by Technology**
+
+- **C++ Projects:** 35+ (DSA, Games, Desktop Apps, Systems)
+- **Python Projects:** 25+ (AI/ML, Scripts, Automation, Web)
+- **JavaScript/TypeScript Projects:** 15+ (Web Apps, Interactive Tools)
+- **Mobile Apps:** 8+ (Android Apps, Cross-platform)
+- **Full Stack Apps:** 12+ (Complete Solutions)
+
+</div>
 
 <!-- ===================== SUPPORT & CONNECT ===================== -->
 
@@ -331,7 +363,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
-**Made with 💙 by Mian Daniyal Hassan**
+**Made with 💙 by MIAN DANIYAL HASSAN**
 
 *Last Updated: January 2026*
 
